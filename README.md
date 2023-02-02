@@ -28,4 +28,4 @@ CSS
 [Moment.js](https://momentjs.com/)
 
 ## DEPLOYMENT LINK
-
+https://alamante.github.io/Daily_Planner_App/
